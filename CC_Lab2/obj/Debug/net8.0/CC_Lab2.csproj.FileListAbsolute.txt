@@ -1,0 +1,14 @@
+C:\Users\abdul\source\repos\CC_Lab2\bin\Debug\net8.0\CC_Lab2.exe
+C:\Users\abdul\source\repos\CC_Lab2\bin\Debug\net8.0\CC_Lab2.deps.json
+C:\Users\abdul\source\repos\CC_Lab2\bin\Debug\net8.0\CC_Lab2.runtimeconfig.json
+C:\Users\abdul\source\repos\CC_Lab2\bin\Debug\net8.0\CC_Lab2.dll
+C:\Users\abdul\source\repos\CC_Lab2\bin\Debug\net8.0\CC_Lab2.pdb
+C:\Users\abdul\source\repos\CC_Lab2\obj\Debug\net8.0\CC_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\CC_Lab2\obj\Debug\net8.0\CC_Lab2.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\CC_Lab2\obj\Debug\net8.0\CC_Lab2.AssemblyInfo.cs
+C:\Users\abdul\source\repos\CC_Lab2\obj\Debug\net8.0\CC_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\CC_Lab2\obj\Debug\net8.0\CC_Lab2.dll
+C:\Users\abdul\source\repos\CC_Lab2\obj\Debug\net8.0\refint\CC_Lab2.dll
+C:\Users\abdul\source\repos\CC_Lab2\obj\Debug\net8.0\CC_Lab2.pdb
+C:\Users\abdul\source\repos\CC_Lab2\obj\Debug\net8.0\CC_Lab2.genruntimeconfig.cache
+C:\Users\abdul\source\repos\CC_Lab2\obj\Debug\net8.0\ref\CC_Lab2.dll
